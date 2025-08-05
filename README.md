@@ -20,6 +20,8 @@ A modern GraphQL API showcasing best practices for building scalable and efficie
 * Observability integration
 
 ## Introduction
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/ab96aeae-6c8f-4092-ac24-153efe8211e9" />
+
 
 This project demonstrates how to build a GraphQL API using Spring Boot that manages a library of books, authors, and reviews. 
 It showcases how GraphQL can solve common REST API challenges like overfetching, underfetching, and multiple endpoint calls 
@@ -259,6 +261,11 @@ public class SearchController {
 
 
 ## Observability
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c12bc398-3a86-4c83-84b7-efc154123b21" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/58add849-6c4e-4771-9592-4e583fbf9e44" />
+
 
 Observability is the ability to observe the internal state of a running system from the outside. It consists of the three pillars logging, metrics and traces.
 
