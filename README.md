@@ -4,6 +4,10 @@ A modern GraphQL API showcasing best practices for building scalable and efficie
 
 **Project Requirements**
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/51ab2ebc-06f0-429c-ad40-363143c62fe5" />
+
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/23b76bb1-7f7e-4138-b5fd-416c57438be6" />
+
 * Java 23
 * Maven 3.6+
 * Docker and Docker Compose
